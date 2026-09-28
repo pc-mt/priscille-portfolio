@@ -1,5 +1,14 @@
 import {useEffect,useState} from 'react';
 import {ArrowDownRight,ArrowUpRight,Github,Linkedin,Code2,BrainCircuit,Database,Boxes} from 'lucide-react';
+import cnnTrainingCurves from './assets/cnn-training-curves.png';
+import cnnConfusionMatrix from './assets/cnn-confusion-matrix.png';
+import quizArchitecture from './assets/quiz-architecture.png';
+import retailPrep from './assets/retail-data-preparation.svg';
+import retailForecast from './assets/retail-forecasting.svg';
+import retailCluster from './assets/retail-clustering.svg';
+import fraudAufgabe3 from './assets/fraud-aufgabe3-workflow.svg';
+import fraudAufgabe4 from './assets/fraud-aufgabe4-workflow.svg';
+
 
 const skills=[
 {icon:Code2,title:'Software Engineering',items:'Java · C · Python · JavaScript · REST APIs · Vert.x'},
