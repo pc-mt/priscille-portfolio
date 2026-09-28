@@ -1,5 +1,5 @@
 import {useEffect,useState} from 'react';
-import {ArrowDownRight,ArrowUpRight,Github,Linkedin,Mail,Code2,BrainCircuit,Database,Boxes} from 'lucide-react';
+import {ArrowDownRight,ArrowUpRight,Github,Linkedin,Code2,BrainCircuit,Database,Boxes} from 'lucide-react';
 
 const skills=[
 {icon:Code2,title:'Software Engineering',items:'Java · C · Python · JavaScript · REST APIs · Vert.x'},
