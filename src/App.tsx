@@ -1,13 +1,13 @@
 import {useEffect,useState} from 'react';
 import {ArrowDownRight,ArrowUpRight,Github,Linkedin,Code2,BrainCircuit,Database,Boxes} from 'lucide-react';
-import cnnTrainingCurves from './assets/cnn-training-curves.png';
-import cnnConfusionMatrix from './assets/cnn-confusion-matrix.png';
-import quizArchitecture from './assets/quiz-architecture.png';
-import retailPrep from './assets/retail-data-preparation.svg';
-import retailForecast from './assets/retail-forecasting.svg';
-import retailCluster from './assets/retail-clustering.svg';
-import fraudAufgabe3 from './assets/fraud-aufgabe3-workflow.svg';
-import fraudAufgabe4 from './assets/fraud-aufgabe4-workflow.svg';
+import cnnTrainingCurves from './assets/cnn-training-curves.png?url';
+import cnnConfusionMatrix from './assets/cnn-confusion-matrix.png?url';
+import quizArchitecture from './assets/quiz-architecture.png?url';
+import retailPrep from './assets/retail-data-preparation.svg?url';
+import retailForecast from './assets/retail-forecasting.svg?url';
+import retailCluster from './assets/retail-clustering.svg?url';
+import fraudAufgabe3 from './assets/fraud-aufgabe3-workflow.svg?url';
+import fraudAufgabe4 from './assets/fraud-aufgabe4-workflow.svg?url';
 
 
 const skills=[
